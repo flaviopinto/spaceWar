@@ -41,7 +41,7 @@ public class MainActivity extends Activity {
 	}
 	
 	private void configCCDirector(){
-		CCDirector.sharedDirector().setScreenSize(480, 800);
+		CCDirector.sharedDirector().setScreenSize(320, 480);
 	}
 	
 	private void openMainScreen(){

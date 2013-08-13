@@ -1,7 +1,7 @@
 package br.com.fp.spacewar.config;
 
 public class Assets {
-	public static String  BACKGROUND = "space_war_backgroung.png";
+	public static String  BACKGROUND = "background.png";
 	public static String  LOGO 		 = "logo.png";
 	public static String  FINALEND 	 = "finalend.png";
 	public static String  GAMEOVER 	 = "gameover.png";
